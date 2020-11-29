@@ -1,0 +1,25 @@
+<app-header> </app-header>
+<app-menu></app-menu>
+
+<app-report-template
+  [showPagination]="true"
+  [showPerPage]="true"
+  [isRowSelectable]="true"
+  [showExcelExport]="true"
+  [isInprogress]="isInprogress"
+  [showNotFoundMsg]="showNotFoundMsg"
+  [showDate]="false"
+  [dateFormat]="'YYYY-MM-DD'"
+  [moduleName]="'ALATGoal'"
+  [reportTitle]="reportTitle"
+  [reportHeaders]="reportHeader"
+  [reportData]="reportData"
+  (searchTriggered)="onSearch($event)"
+  [page]="page"
+  [per_page]="per_page"
+  [total_pages]="total_pages"
+  [totalRecords]="totalRecords"
+  (pageChange)="onPageChange($event)"
+  (exportExcelTriggered)="ExportDataToExcel()"
+>
+</app-report-template>

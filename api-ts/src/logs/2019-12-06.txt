@@ -1,0 +1,12 @@
+Date=Fri Dec 06 2019 09:07:37 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Fri Dec 06 2019 09:09:37 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Fri Dec 06 2019 09:10:56 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=damilola.eludire	 Login Successful	 request=damilola.eludire	 response=N/A
+Date=Fri Dec 06 2019 09:12:36 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Fri Dec 06 2019 09:13:14 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=damilola.eludire	 Login Failed	 request=damilola.eludire	 response={"err":{"lde_message":"80090308: LdapErr: DSID-0C09042F, comment: AcceptSecurityContext error, data 52e, v2580\u0000","lde_dn":null},"message":"Authentication failed. Username/Password invalid"}
+Date=Fri Dec 06 2019 09:14:05 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=damilola.eludire	 Login Successful	 request=damilola.eludire	 response=N/A
+Date=Fri Dec 06 2019 11:01:55 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Fri Dec 06 2019 11:03:34 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getCustomerAccounts	 request=0122609501	 response=N/A
+Date=Fri Dec 06 2019 11:03:34 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getCustomerAccountsTransStat	 request={"accno":"0122609501","cDate":"6-Dec-2019","cMonthStartDate":"01-Dec-2019","cMonthEndDate":"31-Dec-2019","cYearStartDate":"01-Jan-2019","cYearEndDate":"31-Dec-2019"}	 response=N/A
+Date=Fri Dec 06 2019 11:04:14 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getBankAccountStatement	 request={"accno":"0234774179","datefrom":"01-Dec-2019","dateto":"06-Dec-2019","myaccount":"1"}	 response=N/A
+Date=Fri Dec 06 2019 13:03:27 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Fri Dec 06 2019 16:34:37 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A

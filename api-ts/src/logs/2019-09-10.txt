@@ -1,0 +1,6 @@
+Date=Tue Sep 10 2019 17:37:39 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Tue Sep 10 2019 17:38:04 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getMyAccounts	 request=0122855432	 response=N/A
+Date=Tue Sep 10 2019 17:38:04 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getCustomerAccountsTransStat	 request={"accno":"0122855432","cDate":"10-Sep-2019","cMonthStartDate":"01-Sep-2019","cMonthEndDate":"30-Sep-2019","cYearStartDate":"01-Jan-2019","cYearEndDate":"31-Dec-2019"}	 response=N/A
+Date=Tue Sep 10 2019 17:38:47 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getCustomerAccounts	 request=0242046129	 response=N/A
+Date=Tue Sep 10 2019 17:38:48 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getCustomerAccountsTransStat	 request={"accno":"0242046129","cDate":"10-Sep-2019","cMonthStartDate":"01-Sep-2019","cMonthEndDate":"30-Sep-2019","cYearStartDate":"01-Jan-2019","cYearEndDate":"31-Dec-2019"}	 response=N/A
+Date=Tue Sep 10 2019 17:39:29 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getBankAccountStatement	 request={"accno":"0242046129","datefrom":"01-Aug-2019","dateto":"10-Sep-2019","myaccount":"1"}	 response=N/A

@@ -1,0 +1,4 @@
+Date=Fri Oct 09 2020 07:54:08 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Fri Oct 09 2020 13:48:04 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Fri Oct 09 2020 13:48:19 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=	 getTodayBirthay_Staff	 request=	 response={"err":{"error":"Failed to connect to 172.27.5.59\\wemaconsol1 in 15000ms"},"message":"No user found"}
+Date=Fri Oct 09 2020 15:12:55 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A

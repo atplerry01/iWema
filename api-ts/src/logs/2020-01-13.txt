@@ -1,0 +1,7 @@
+Date=Mon Jan 13 2020 09:39:39 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Mon Jan 13 2020 10:01:50 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getCustomerAccounts	 request=0242046129	 response=N/A
+Date=Mon Jan 13 2020 10:01:50 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getCustomerAccountsTransStat	 request={"accno":"0242046129","cDate":"13-Jan-2020","cMonthStartDate":"01-Jan-2020","cMonthEndDate":"31-Jan-2020","cYearStartDate":"01-Jan-2020","cYearEndDate":"31-Dec-2020"}	 response=N/A
+Date=Mon Jan 13 2020 10:03:19 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getBankAccountStatement	 request={"accno":"0242046129","datefrom":"01-Jan-2020","dateto":"13-Jan-2020","myaccount":"1"}	 response=N/A
+Date=Mon Jan 13 2020 11:39:28 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Mon Jan 13 2020 11:40:15 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getCustomerAccounts	 request=0242046129	 response=N/A
+Date=Mon Jan 13 2020 11:40:16 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getCustomerAccountsTransStat	 request={"accno":"0242046129","cDate":"13-Jan-2020","cMonthStartDate":"01-Jan-2020","cMonthEndDate":"31-Jan-2020","cYearStartDate":"01-Jan-2020","cYearEndDate":"31-Dec-2020"}	 response=N/A

@@ -1,0 +1,2 @@
+Date=Wed Feb 26 2020 12:36:37 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Failed	 request=olanrewaju.akinsanya	 response={"err":{"lde_message":"80090308: LdapErr: DSID-0C09042F, comment: AcceptSecurityContext error, data 52e, v2580\u0000","lde_dn":null},"message":"Authentication failed. Username/Password invalid"}
+Date=Wed Feb 26 2020 12:36:49 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ACCT_NAME",
+    "title": "ACCT_NAME",
+    "right": false,
+    "isDate": false,
+    "isNumber": false
+  },
+  {
+    "name": "FORACID",
+    "title": "FORACID",
+    "right": false,
+    "isDate": false,
+    "isNumber": false
+  },
+  {
+    "name": "ACCOUNT_TYPE",
+    "title": "ACCOUNT_TYPE",
+    "right": false,
+    "isDate": false,
+    "isNumber": false
+  },
+  {
+    "name": "SCHM_DESC",
+    "title": "SCHM_DESC",
+    "right": false,
+    "isDate": false,
+    "isNumber": false
+  },
+  {
+    "name": "SOL_DESC",
+    "title": "SOL_DESC",
+    "right": false,
+    "isDate": false,
+    "isNumber": false
+  },
+  {
+    "name": "ACCT_OPN_DATE",
+    "title": "ACCT_OPN_DATE",
+    "right": false,
+    "isDate": false,
+    "isNumber": false
+  },
+  {
+    "name": "CLR_BAL_AMT",
+    "title": "CLR_BAL_AMT",
+    "right": false,
+    "isDate": false,
+    "isNumber": false
+  },
+  {
+    "name": "ACCT_MGR_USER_ID",
+    "title": "ACCT_MGR_USER_ID",
+    "right": false,
+    "isDate": false,
+    "isNumber": false
+  }
+]

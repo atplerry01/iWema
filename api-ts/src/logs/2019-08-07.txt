@@ -1,0 +1,14 @@
+Date=Wed Aug 07 2019 07:38:28 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A
+Date=Wed Aug 07 2019 07:49:03 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A
+Date=Wed Aug 07 2019 07:51:35 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A
+Date=Wed Aug 07 2019 08:09:58 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A
+Date=Wed Aug 07 2019 08:10:34 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olukunle.Abolade	 getMyAccounts	 request=0234839234	 response=N/A
+Date=Wed Aug 07 2019 08:10:34 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olukunle.Abolade	 getCustomerAccountsTransStat	 request={"accno":"0234839234","cDate":"7-Aug-2019","cMonthStartDate":"01-Aug-2019","cMonthEndDate":"31-Aug-2019","cYearStartDate":"01-Jan-2019","cYearEndDate":"31-Dec-2019"}	 response=N/A
+Date=Wed Aug 07 2019 08:11:28 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A
+Date=Wed Aug 07 2019 08:21:08 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A
+Date=Wed Aug 07 2019 08:29:46 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A
+Date=Wed Aug 07 2019 08:35:36 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A
+Date=Wed Aug 07 2019 08:49:56 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A
+Date=Wed Aug 07 2019 08:57:23 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A
+Date=Wed Aug 07 2019 09:14:47 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A
+Date=Wed Aug 07 2019 13:56:23 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A

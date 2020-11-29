@@ -1,0 +1,10 @@
+Date=Wed Oct 02 2019 07:35:47 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Wed Oct 02 2019 10:13:22 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Wed Oct 02 2019 10:13:25 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=	 getTodayBirthay_Staff	 request=	 response={"err":{"error":"Failed to connect to 172.27.5.59:undefined - connect ECONNREFUSED 172.27.5.59:9001"},"message":"No user found"}
+Date=Wed Oct 02 2019 12:54:17 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Wed Oct 02 2019 12:57:56 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=	 getTodayBirthay_Staff	 request=	 response={"err":{"error":"Failed to connect to 172.27.5.59\\wemaconsol1 in 15000ms"},"message":"No user found"}
+Date=Wed Oct 02 2019 13:51:35 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Wed Oct 02 2019 13:51:37 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=	 getTodayBirthay_Staff	 request=	 response={"err":{"error":"Failed to connect to 172.27.5.59:undefined - connect ECONNREFUSED 172.27.5.59:9001"},"message":"No user found"}
+Date=Wed Oct 02 2019 14:03:14 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=	 getTodayBirthay_Staff	 request=	 response={"err":{"error":"Failed to connect to 172.27.5.59:undefined - connect ECONNREFUSED 172.27.5.59:9001"},"message":"No user found"}
+Date=Wed Oct 02 2019 14:03:24 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=	 getTodayBirthay_Staff	 request=	 response={"err":{"error":"Failed to connect to 172.27.5.59:undefined - connect ECONNREFUSED 172.27.5.59:9001"},"message":"No user found"}
+Date=Wed Oct 02 2019 14:04:22 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A

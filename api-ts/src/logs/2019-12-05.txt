@@ -1,0 +1,16 @@
+Date=Thu Dec 05 2019 09:19:16 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Thu Dec 05 2019 09:19:42 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getCustomerAccounts	 request=0224886420	 response=N/A
+Date=Thu Dec 05 2019 09:19:42 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getCustomerAccountsTransStat	 request={"accno":"0224886420","cDate":"5-Dec-2019","cMonthStartDate":"01-Dec-2019","cMonthEndDate":"31-Dec-2019","cYearStartDate":"01-Jan-2019","cYearEndDate":"31-Dec-2019"}	 response=N/A
+Date=Thu Dec 05 2019 09:21:08 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getCustomerAccounts	 request=0242046129	 response=N/A
+Date=Thu Dec 05 2019 09:21:09 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getCustomerAccountsTransStat	 request={"accno":"0242046129","cDate":"5-Dec-2019","cMonthStartDate":"01-Dec-2019","cMonthEndDate":"31-Dec-2019","cYearStartDate":"01-Jan-2019","cYearEndDate":"31-Dec-2019"}	 response=N/A
+Date=Thu Dec 05 2019 09:21:21 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getBankAccountStatement	 request={"accno":"0242046129","datefrom":"01-Dec-2019","dateto":"05-Dec-2019","myaccount":"1"}	 response=N/A
+Date=Thu Dec 05 2019 09:25:06 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Thu Dec 05 2019 14:26:16 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Thu Dec 05 2019 14:27:24 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Thu Dec 05 2019 17:49:08 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Thu Dec 05 2019 18:00:05 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Thu Dec 05 2019 19:00:03 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Thu Dec 05 2019 19:07:00 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Thu Dec 05 2019 19:16:42 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Thu Dec 05 2019 19:17:33 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Thu Dec 05 2019 19:40:45 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A

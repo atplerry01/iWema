@@ -1,0 +1,7 @@
+Date=Fri Aug 23 2019 16:01:19 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Failed	 request=olukunle.abolade	 response={"err":{"lde_message":"80090308: LdapErr: DSID-0C09042F, comment: AcceptSecurityContext error, data 52e, v2580\u0000","lde_dn":null},"message":"Authentication failed. Username/Password invalid"}
+Date=Fri Aug 23 2019 16:01:42 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A
+Date=Fri Aug 23 2019 16:21:45 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A
+Date=Fri Aug 23 2019 16:22:11 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A
+Date=Fri Aug 23 2019 16:23:37 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A
+Date=Fri Aug 23 2019 16:23:58 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A
+Date=Fri Aug 23 2019 16:24:27 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A

@@ -1,0 +1,77 @@
+<app-header> </app-header>
+<app-menu></app-menu>
+
+<div class="pagelink">
+  <div>
+      <!-- <a class="nav-link" [routerLink]="['/sc/banking/statement-approval']"> View Statement Rendation Status </a> -->
+      <ul>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/admin-policy']">Policies</a>
+        </li>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/admin-regulatory']">Regulations</a>
+        </li>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/admin-departments']">Departments</a>
+        </li>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/admin-policy-notifications']">Policy Notifiers</a>
+        </li>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/admin-regulation-notifications']">Regulation Notifiers</a>
+        </li>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/admin-audits']">Audit Logs</a>
+        </li>
+      </ul>
+  </div>
+</div>
+
+<app-report-template
+  [isInprogress]="isInprogress"
+  [showNotFoundMsg]="showNotFoundMsg"
+  [moduleName]="'PolicyPortalAdmin'"
+  [reportTitle]="'Policy Email Notifiers'"
+  [reportHeaders]=""
+  [reportData]=""
+>
+</app-report-template>
+
+<div class="formContainer card-box-shadow">
+  <div style="padding: '30px 0 10px';">
+    <h2>{{pageTitle}}</h2>
+  </div>
+      <div class="setFormMargin">
+
+          <app-form-template
+            [model]="model"
+            [fields]="fields"
+            (submitTriggered)="submit()"
+            (closeTriggered) = "cancel()"
+            [submitLabel]="submitLabel">
+          </app-form-template>
+        </div>
+
+      <app-report-template
+        [isInprogress]="isInprogress"
+        [showNotFoundMsg]="showNotFoundMsg"
+        [moduleName]="'PolicyPortalAdmin'"
+        [reportTitle]="'Policy Lists'"
+        [reportHeaders]="reportHeader"
+        [reportData]="notifierLists"
+        (rowSelectionTriggered)="onRowSelected($event)"
+        [showEdit]="true"
+        (editRowTriggered)="onMenuEdit($event)"
+        [showDelete]="true"
+        (deleteRowTriggered)="onSubMenuDelete($event)"
+      >
+      </app-report-template>
+
+</div>
+
+
+
+
+<div class="spinner" *ngIf="isInprogress"></div>
+
+<app-footer></app-footer>

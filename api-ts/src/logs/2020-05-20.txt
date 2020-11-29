@@ -1,0 +1,10 @@
+Date=Wed May 20 2020 10:14:16 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Wed May 20 2020 10:17:16 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Wed May 20 2020 10:29:10 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Wed May 20 2020 11:41:57 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Wed May 20 2020 11:51:09 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Wed May 20 2020 12:44:52 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Wed May 20 2020 12:48:59 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 update_menu_item	 request={"idno":6,"menu_id":"M006","menu_name":"Inside-Wema(v1) ","menu_order":"6","menu_image":null,"menu_link":"http://insidewema1","standalone":"Y","status":"N","menu_display_inside":"N"}	 response=N/A
+Date=Wed May 20 2020 12:50:57 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=	 get_menu_items	 request={}	 response={"err":null,"message":"Unauthorized user"}
+Date=Wed May 20 2020 12:51:11 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Wed May 20 2020 13:06:43 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A

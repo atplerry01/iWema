@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ACCT_NAME",
+    "title": "ACCT_NAME",
+    "right": false,
+    "isDate": false,
+    "isNumber": false
+  },
+  {
+    "name": "FORACID",
+    "title": "FORACID",
+    "right": false,
+    "isDate": false,
+    "isNumber": false
+  },
+  {
+    "name": "ACCT_OPN_DATE",
+    "title": "ACCT_OPN_DATE",
+    "right": false,
+    "isDate": false,
+    "isNumber": false
+  },
+  {
+    "name": "CUST_SEX",
+    "title": "CUST_SEX",
+    "right": false,
+    "isDate": false,
+    "isNumber": false
+  },
+  {
+    "name": "ACCT_STATUS",
+    "title": "ACCT_STATUS",
+    "right": false,
+    "isDate": false,
+    "isNumber": false
+  }
+]

@@ -1,0 +1,26 @@
+<app-header>
+</app-header>
+<app-menu></app-menu>
+
+<div class="formContainer card-box-shadow">
+  <div style="padding: '10px 0 10px';">
+    <h2>Form M - File Upload</h2>
+  </div>
+  <div class="setFormMargin">
+
+    <div style="padding-left: 15px; margin-bottom: 10px;">
+      <div>
+        <!-- <strong style="color:#000">Allowed Extension: pdf</strong> -->
+        <div class="row">
+          <div>
+            <input type="file" (change)="onFileSelected($event)" />
+            <button type="button" (click)="onUpload()">Upload</button>
+
+            <br/><br/>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>

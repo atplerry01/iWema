@@ -1,0 +1,48 @@
+<app-header> </app-header>
+<app-menu></app-menu>
+
+<div class="pagelink">
+  <div>
+      <!-- <a class="nav-link" [routerLink]="['/sc/banking/statement-approval']"> View Statement Rendation Status </a> -->
+      <ul>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/admin-policy']">Policies</a>
+        </li>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/admin-regulatory']">Regulations</a>
+        </li>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/admin-departments']">Departments</a>
+        </li>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/admin-policy-notifications']">Policy Notifiers</a>
+        </li>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/admin-regulation-notifications']">Regulation Notifiers</a>
+        </li>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/admin-audits']">Audit Logs</a>
+        </li>
+      </ul>
+  </div>
+</div>
+
+<app-report-template
+  [isInprogress]="isInprogress"
+  [showNotFoundMsg]="showNotFoundMsg"
+  [moduleName]="'PolicyPortalAdmin'"
+  [reportTitle]="'Policies'"
+  [showSearch]="false" 
+  [searchText1_Placeholder]="'Audit Logs'"
+  [reportHeaders]="reportHeader"
+  [reportData]="reportData"
+  [showDownload]="false"
+  (downloadTriggered)="onDownloadRow($event)"
+  (searchTriggered)="onSearch($event)"
+>
+</app-report-template>
+
+
+<div class="spinner" *ngIf="isInprogress"></div>
+
+<app-footer></app-footer>

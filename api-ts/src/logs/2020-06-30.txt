@@ -1,0 +1,12 @@
+Date=Tue Jun 30 2020 02:39:59 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Tue Jun 30 2020 02:52:56 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Failed	 request=olanrewaju.akinsanya	 response={"err":{"lde_message":"80090308: LdapErr: DSID-0C090446, comment: AcceptSecurityContext error, data 52e, v2580\u0000","lde_dn":null},"message":"Authentication failed. Username/Password invalid"}
+Date=Tue Jun 30 2020 02:53:11 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Tue Jun 30 2020 02:53:46 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Failed	 request=olanrewaju.akinsanya	 response={"err":{"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"connect","address":"172.27.4.83","port":389},"message":"Authentication failed. Unknown Error"}
+Date=Tue Jun 30 2020 02:54:31 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Tue Jun 30 2020 02:55:30 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Tue Jun 30 2020 10:28:42 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Tue Jun 30 2020 10:28:50 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Tue Jun 30 2020 10:29:29 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Tue Jun 30 2020 12:53:10 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Tue Jun 30 2020 13:04:47 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Tue Jun 30 2020 15:38:17 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A

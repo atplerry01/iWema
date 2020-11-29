@@ -1,0 +1,4 @@
+Date=Tue Dec 31 2019 10:43:23 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Tue Dec 31 2019 10:44:50 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 update_menu_subs	 request={"idno":219,"submenu_id":"MicrCz5Pugz61","menu_id":"M007","submenu_name":"MICR BTS","submenu_link":"/micr/micr-reports/bts","submenu_display_inside":"Y","submenu_order":1,"favourite_status":"Y","favourite_order":1,"status":"Y"}	 response=N/A
+Date=Tue Dec 31 2019 10:48:43 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 add_menu_items_Roles	 request={"submenu_id":"MicrCz5Pugz61","access_level_id":"G","status":"Y","roleid":"GENERAL","role_name":"Available To All Users"}	 response=N/A
+Date=Tue Dec 31 2019 10:48:58 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A

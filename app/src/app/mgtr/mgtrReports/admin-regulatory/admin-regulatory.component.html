@@ -1,0 +1,112 @@
+<app-header> </app-header>
+<app-menu></app-menu>
+
+<div class="pagelink">
+  <div>
+      <!-- <a class="nav-link" [routerLink]="['/sc/banking/statement-approval']"> View Statement Rendation Status </a> -->
+      <ul>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/admin-policy']">Policies</a>
+        </li>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/admin-regulatory']">Regulations</a>
+        </li>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/admin-departments']">Departments</a>
+        </li>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/admin-policy-notifications']">Policy Notifiers</a>
+        </li>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/admin-regulation-notifications']">Regulation Notifiers</a>
+        </li>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/admin-audits']">Audit Logs</a>
+        </li>
+      </ul>
+  </div>
+</div>
+
+<app-report-template 
+  [isInprogress]="isInprogress" 
+  [showNotFoundMsg]="showNotFoundMsg"
+  [moduleName]="'PolicyPortalAdmin'" 
+  [dateFormat]="'YYYY-MM-DD'" 
+  [reportTitle]="'Regulations'"
+  [reportHeaders]="" 
+  [reportData]="">
+</app-report-template>
+
+<div class="formContainer card-box-shadow">
+  <div style="padding: '30px 0 10px';">
+    <h2>{{pageTitle}}</h2>
+  </div>
+
+  <div class="setFormMargin">
+
+    
+    <div>
+      <strong style="color:#000">Allowed Extension: *</strong>
+      <div class="row">
+        <div style="padding-left: 20px;">
+          <input #fileInput type="file" id="file" (change)="onFileSelected($event.target.files)">
+        </div>
+      </div>
+    </div>
+
+    <app-form-template 
+      [model]="model" 
+      [fields]="fields" 
+      (submitTriggered)="submit()" 
+      (closeTriggered)="cancel()"
+      [submitLabel]="submitLabel">
+    </app-form-template>
+  </div>
+
+  <app-report-template 
+    [isInprogress]="isInprogress" 
+    [showNotFoundMsg]="showNotFoundMsg"
+    [moduleName]="'PolicyPortalAdmin'"
+    [reportTitle]="'Regulations'" 
+    [reportHeaders]="reportHeader"
+    [reportData]="reportData"
+    [isRowSelectable]="true"
+    (rowSelectionTriggered)="onRowSelected($event)"
+    [showDownload]="true"
+    (downloadTriggered)="onDownloadRow($event)"
+    [showEdit]="true"
+    (editRowTriggered)="onMenuEdit($event)"
+    [showDelete]="true"
+    (deleteRowTriggered)="onSubMenuDelete($event)"
+    >
+  </app-report-template>
+
+</div>
+
+
+<div class="spinner" *ngIf="isInprogress"></div>
+
+<app-footer></app-footer>
+
+<!-- model box section -->
+<div class="pop" *ngIf="showForm">
+  <div class="modal">
+
+    <div class="modal__inner" style="width: 75%">
+      
+      <div>
+      
+        <div class="form-header" style="font-size: 18px">Update Regulation</div>
+
+        <div class="myform">
+          <div class="spinner" *ngIf="isInprogress"></div>
+          <app-form-template [model]="model" [fields]="fields" (submitTriggered)="submit($event)"
+            [showSubmit]="true" (closeTriggered)="showForm = false" [submitLabel]="submitLabel">
+          </app-form-template>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</div>

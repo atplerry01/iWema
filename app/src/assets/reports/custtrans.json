@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ACCOUNT_NUMBER",
+    "title": "ACCOUNT_NUMBER",
+    "right": false,
+    "isDate": false,
+    "isNumber": false
+  },
+  {
+    "name": "FORACID",
+    "title": "FORACID",
+    "right": false,
+    "isDate": false,
+    "isNumber": false
+  },
+  {
+    "name": "PART_TRAN_TYPE",
+    "title": "PART_TRAN_TYPE",
+    "right": false,
+    "isDate": false,
+    "isNumber": false
+  },
+  {
+    "name": "PSTD_DATE",
+    "title": "PSTD_DATE",
+    "right": false,
+    "isDate": true,
+    "isNumber": false
+  },
+  {
+    "name": "TRAN_AMT",
+    "title": "TRAN_AMT",
+    "right": false,
+    "isDate": false,
+    "isNumber": true
+  },
+  {
+    "name": "TRAN_DATE",
+    "title": "TRAN_DATE",
+    "right": false,
+    "isDate": true,
+    "isNumber": false
+  },
+  {
+    "name": "TRAN_PARTICULAR",
+    "title": "TRAN_PARTICULAR",
+    "right": false,
+    "isDate": false,
+    "isNumber": false
+  },
+  {
+    "name": "VALUE_DATE",
+    "title": "VALUE_DATE",
+    "right": false,
+    "isDate": true,
+    "isNumber": false
+  }
+]

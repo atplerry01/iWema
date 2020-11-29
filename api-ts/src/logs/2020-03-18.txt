@@ -1,0 +1,7 @@
+Date=Wed Mar 18 2020 10:06:27 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Wed Mar 18 2020 10:28:30 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Wed Mar 18 2020 14:56:09 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Wed Mar 18 2020 15:09:16 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 add_menu_items_SpecialRoles	 request={"submenu_id":"SB001DWT","access_level_id":"G","status":"Y","userid":"olanrewaju.akinsanya"}	 response=N/A
+Date=Wed Mar 18 2020 15:09:48 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 add_menu_items_SpecialRoles	 request={"submenu_id":"SB001DWT","access_level_id":"G","status":"Y","userid":"Esther.Dairo"}	 response=N/A
+Date=Wed Mar 18 2020 15:10:40 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 add_menu_items_SpecialRoles	 request={"submenu_id":"SB001DWT","access_level_id":"G","status":"Y","userid":"Titilola.Olaiya"}	 response=N/A
+Date=Wed Mar 18 2020 15:10:58 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A

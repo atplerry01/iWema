@@ -1,0 +1,6 @@
+Date=Mon Sep 21 2020 07:35:17 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Mon Sep 21 2020 08:09:24 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Mon Sep 21 2020 09:36:52 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getMyAccounts	 request=0122855432	 response=N/A
+Date=Mon Sep 21 2020 09:36:54 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olanrewaju.Akinsanya	 getCustomerAccountsTransStat	 request={"accno":"0122855432","cDate":"21-Sep-2020","cMonthStartDate":"01-Sep-2020","cMonthEndDate":"30-Sep-2020","cYearStartDate":"01-Jan-2020","cYearEndDate":"31-Dec-2020"}	 response=N/A
+Date=Mon Sep 21 2020 15:53:28 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Mon Sep 21 2020 18:08:01 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A

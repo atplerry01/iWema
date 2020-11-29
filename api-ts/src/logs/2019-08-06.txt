@@ -1,0 +1,6 @@
+Date=Tue Aug 06 2019 18:01:15 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A
+Date=Tue Aug 06 2019 18:01:25 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olukunle.Abolade	 getMyAccounts	 request=0234839234	 response=N/A
+Date=Tue Aug 06 2019 18:01:25 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=Olukunle.Abolade	 getCustomerAccountsTransStat	 request={"accno":"0234839234","cDate":"6-Aug-2019","cMonthStartDate":"01-Aug-2019","cMonthEndDate":"31-Aug-2019","cYearStartDate":"01-Jan-2019","cYearEndDate":"31-Dec-2019"}	 response=N/A
+Date=Tue Aug 06 2019 18:22:42 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A
+Date=Tue Aug 06 2019 18:30:20 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Failed	 request=olukunle.abolade	 response={"err":{"lde_message":"80090308: LdapErr: DSID-0C09042F, comment: AcceptSecurityContext error, data 52e, v2580\u0000","lde_dn":null},"message":"Authentication failed. Username/Password invalid"}
+Date=Tue Aug 06 2019 18:30:30 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olukunle.abolade	 Login Successful	 request=olukunle.abolade	 response=N/A

@@ -1,0 +1,46 @@
+<app-header> </app-header>
+<app-menu></app-menu>
+
+<app-report-template
+  [useReportManager]="true"
+  [downloadClick] = "downloadClick"
+
+  [showPagination]="true"
+  [showPerPage]="false"
+  [isRowSelectable]="true"
+  [showExcelExport]="true"
+
+  [isInprogress]="isInprogress"
+  [showNotFoundMsg]="showNotFoundMsg"
+
+  [showSearch]="true"
+  [showDate]="hasDate"
+  [isDateRange]="hasDateRange"
+  [dateFormat]="'YYYY-MM-DD'"
+
+  [searchText1_Placeholder]="searchText1"
+  [searchText2_Placeholder]="searchText2"
+  [searchText3_Placeholder]="searchText3"
+  [searchText4_Placeholder]="searchText4"
+
+  [showDropdownMenu1]="hasDropDown"
+  [dropdownMenu1List]="reportParamListItems"
+
+  [moduleName]="'RMPDetails'"
+  [reportTitle]="reportTitle"
+  [reportHeaders]="reportHeaderJson"
+  [reportData]="reportData"
+
+  (searchTriggered)="onSearch($event)"
+  (searchDownloadTriggered)="onSearchDownload($event)"
+
+  [page]="page"
+  [per_page]="per_page"
+  [total_pages]="total_pages"
+  [totalRecords]="totalRecords"
+>
+</app-report-template>
+
+
+<!-- (DropdownMenu1Triggered)="onReportTypeChange($event)" 
+[dropdownMenu1SelectedCode]="selectedReportOption" -->

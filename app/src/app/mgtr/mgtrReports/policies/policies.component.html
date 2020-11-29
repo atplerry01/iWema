@@ -1,0 +1,35 @@
+<app-header> </app-header>
+<app-menu></app-menu>
+
+<div class="pagelink">
+  <div>
+      <ul>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/policies']">Policies</a>
+        </li>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/regulations']">Regulations</a>
+        </li>
+      </ul>
+  </div>
+</div>
+
+<app-report-template
+  [isInprogress]="isInprogress"
+  [showNotFoundMsg]="showNotFoundMsg"
+  [moduleName]="'PolicyPortalClient'"
+  [reportTitle]="'Policies'"
+  [showSearch]="true" 
+  [searchText1_Placeholder]="'Search'"
+  [reportHeaders]="reportHeader"
+  [reportData]="reportData"
+  [showDownload]="true"
+  (downloadTriggered)="onDownloadRow($event)"
+  (searchTriggered)="onSearch($event)"
+>
+</app-report-template>
+
+
+<div class="spinner" *ngIf="isInprogress"></div>
+
+<app-footer></app-footer>

@@ -1,0 +1,36 @@
+<app-header> </app-header>
+<app-menu></app-menu>
+
+<div class="pagelink">
+  <div>
+      <!-- <a class="nav-link" [routerLink]="['/sc/banking/statement-approval']"> View Statement Rendation Status </a> -->
+      <ul>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/policies']">Policy</a>
+        </li>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/departmental-policies']">Departmental Policy</a>
+        </li>
+        <li>
+          <a [routerLink]="['/mgtr/mgtr-reports/regulations']">Regulations</a>
+        </li>
+      </ul>
+  </div>
+</div>
+
+<app-report-template
+  [isInprogress]="isInprogress"
+  [showNotFoundMsg]="showNotFoundMsg"
+  [moduleName]="'PolicyPortalClient'"
+  [reportTitle]="'Departmental Policies'"
+  [reportHeaders]="reportHeader"
+  [reportData]="reportData"
+  [showEdit]="true"
+  (editRowTriggered)="onMenuEdit($event)" 
+>
+</app-report-template>
+
+
+<div class="spinner" *ngIf="isInprogress"></div>
+
+<app-footer></app-footer>

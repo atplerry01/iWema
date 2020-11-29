@@ -1,0 +1,77 @@
+[
+   {
+      "name": "test",
+      "type": "mysql",
+      "host": "172.27.4.137",
+      "port": 3306,
+      "username": "report",
+      "password": "report123",
+      "database": "wema360_test",
+      "synchronize": true,
+      "logging": false,
+      "entities": [
+         "src/entity/**/*.**"
+      ],
+      "migrations": [
+         "src/migration/**/*.**"
+      ],
+      "subscribers": [
+         "src/subscriber/**/*.**"
+      ],
+      "cli": {
+         "entitiesDir": "src/entity",
+         "migrationsDir": "src/migration",
+         "subscribersDir": "src/subscriber"
+      }
+   },
+   {
+      "name": "development",
+      "type": "mysql",
+      "host": "172.27.4.137",
+      "port": 3306,
+      "username": "report",
+      "password": "report123",
+      "database": "wema360",
+      "synchronize": false,
+      "logging": true,
+      "entities": [
+         "src/entity/**/*.**"
+      ],
+      "migrations": [
+         "src/migration/**/*.**"
+      ],
+      "subscribers": [
+         "src/subscriber/**/*.**"
+      ],
+      "cli": {
+         "entitiesDir": "src/entity",
+         "migrationsDir": "src/migration",
+         "subscribersDir": "src/subscriber"
+      }
+   },
+   {
+      "name": "production",
+      "type": "mysql",
+      "host": "172.27.4.137",
+      "port": 3306,
+      "username": "report",
+      "password": "report123",
+      "database": "wema360",
+      "synchronize": false,
+      "logging": false,
+      "entities": [
+         "entity/**/*.**"
+      ],
+      "migrations": [
+         "migration/**/*.**"
+      ],
+      "subscribers": [
+         "subscriber/**/*.**"
+      ],
+      "cli": {
+         "entitiesDir": "entity",
+         "migrationsDir": "migration",
+         "subscribersDir": "subscriber"
+      }
+   }
+]

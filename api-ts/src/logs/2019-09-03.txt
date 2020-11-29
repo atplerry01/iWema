@@ -1,0 +1,9 @@
+Date=Tue Sep 03 2019 08:42:35 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Tue Sep 03 2019 14:53:33 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=	 getfavouriteLinks	 request={}	 response={"err":{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2019-09-03T12:42:35.000Z"},"message":"Unauthorized user"}
+Date=Tue Sep 03 2019 14:54:00 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Tue Sep 03 2019 15:04:09 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Tue Sep 03 2019 15:18:26 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Tue Sep 03 2019 15:22:01 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Tue Sep 03 2019 15:22:52 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Tue Sep 03 2019 16:03:12 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
+Date=Tue Sep 03 2019 16:20:15 GMT+0100 (West Africa Standard Time)	 UserIP=	 User=olanrewaju.akinsanya	 Login Successful	 request=olanrewaju.akinsanya	 response=N/A
